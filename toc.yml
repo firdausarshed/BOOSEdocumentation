@@ -1,0 +1,29 @@
+### YamlMime:TableOfContent
+items:
+- uid: BOOSETests
+  name: BOOSETests
+  type: Namespace
+  items:
+  - uid: BOOSETests.DrawingCommandTests
+    name: DrawingCommandTests
+    type: Class
+- uid: BOOSEapp
+  name: BOOSEapp
+  type: Namespace
+  items:
+  - uid: BOOSEapp.AppCircle
+    name: AppCircle
+    type: Class
+  - uid: BOOSEapp.AppDrawTo
+    name: AppDrawTo
+    type: Class
+  - uid: BOOSEapp.AppMoveTo
+    name: AppMoveTo
+    type: Class
+  - uid: BOOSEapp.AppRect
+    name: AppRect
+    type: Class
+  - uid: BOOSEapp.Form1
+    name: Form1
+    type: Class
+memberLayout: SamePage

@@ -1,0 +1,23 @@
+### YamlMime:ManagedReference
+items:
+- uid: BOOSETests
+  commentId: N:BOOSETests
+  id: BOOSETests
+  children:
+  - BOOSETests.DrawingCommandTests
+  langs:
+  - csharp
+  - vb
+  name: BOOSETests
+  nameWithType: BOOSETests
+  fullName: BOOSETests
+  type: Namespace
+  assemblies:
+  - BOOSETests
+references:
+- uid: BOOSETests.DrawingCommandTests
+  commentId: T:BOOSETests.DrawingCommandTests
+  href: BOOSETests.DrawingCommandTests.html
+  name: DrawingCommandTests
+  nameWithType: DrawingCommandTests
+  fullName: BOOSETests.DrawingCommandTests
